@@ -141,3 +141,5 @@ cython_debug/
 .atom
 .idea
 
+static_root
+media_root
