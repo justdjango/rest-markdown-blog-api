@@ -3,7 +3,7 @@ certifi==2020.4.5.1
 chardet==3.0.4
 defusedxml==0.6.0
 dj-rest-auth==1.0.5
-Django==3.0.6
+Django==3.0.7
 django-allauth==0.41.0
 django-cors-headers==3.3.0
 djangorestframework==3.11.0
